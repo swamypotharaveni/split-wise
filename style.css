@@ -1,0 +1,37 @@
+/*change barnd font */
+.navbar-brand{
+	font-family: 'ubuntu',sans-serif;
+	font-size: 2em;
+	font-weight: bold;
+}
+/*change navigation color */
+.navbar #myMenu .custom-nav .nav-item a{
+	color:#ffff;
+}
+.navbar #myMenu .custom-nav .nav-item a:hover{
+	color:green;
+}
+/*make headr images responsive*/
+.back-image{
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+	min-height: 70vh;
+	border-radius: 0px;
+	margin-top: 74px;
+
+}
+.st{
+	font-size: 24px;
+}
+/*font-family:'ubuntu',sans-serif;*/
+}
+a{
+	color: #ffff;
+}
+a:hover{
+	color: #e994a2
+}
+footer{
+	background-color: black;
+}
